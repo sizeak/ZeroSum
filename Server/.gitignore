@@ -1,2 +1,10 @@
+backups/
+world/
+
 eula.txt
 server.properties
+banned-ips.json
+banned-players.json
+ops.json
+usercache.json
+whitelist.json
