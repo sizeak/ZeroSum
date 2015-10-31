@@ -8,7 +8,10 @@ Our first attempt at creating a Minecraft tech pack.
 
 ### Contributing ###
 
+#### Client ####
 This pack is managed with MultiMC and the git repository is made up of the portable parts of the MultiMC instance directory. To work with the pack, simply clone into the instances folder of your MultiMC install (and probably restart MultiMC). ((untested at this point XD)).
+
+#### Server ####
 
 ### Public Releases ###
 I suppose we export the instance from MultiMC and write instructions on importing it (not that it is hard). If we even ever want to.
