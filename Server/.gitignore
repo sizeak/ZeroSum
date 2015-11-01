@@ -1,5 +1,7 @@
 backups/
 world/
+crash-reports/
+asm/
 
 eula.txt
 server.properties
