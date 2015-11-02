@@ -3,3 +3,5 @@ saves/
 mods/carpentersblocks/
 
 *.log
+options.txt
+usernamecache.json
