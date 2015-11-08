@@ -1,22 +1,18 @@
 [
   {
-    "address": "irc.esper.net",
+    "address": "irc.freenode.net",
     "serverPassword": "",
     "nick": "%USERNAME%",
     "charset": "UTF-8",
     "isRedirect": false,
-    "isSSL": false,
+    "isSSL": true,
     "nickserv": {
       "username": "",
       "password": ""
     },
     "channels": [
       {
-        "name": "#EiraIRC"
-      },
-      {
-        "name": "#minecraft",
-        "password": ""
+        "name": "#dragon-sizeak"
       }
     ],
     "bot": {
